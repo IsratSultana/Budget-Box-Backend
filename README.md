@@ -10,9 +10,9 @@ Budget Box, with a frontend built in React & Redux and a backend built in Django
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://newfrontendhive.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://budget-box-frontend--isratsultana.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://hivebackend.repl.co/) here!!
+Check out [API LIVE DEMO](https://budget-box-backend-1--isratsultana.repl.co/) here!!
 
 ## Tech used
 
